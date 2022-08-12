@@ -45,7 +45,7 @@ Incluído no projeto página de cadastro, login, ativação de conta, recuperaç
 
 3 - Certifique de colocar uma rota válida da sua API
 
-## Como contribuir 
+## Contribua com o projeto
 
 1 - Crie um fork do projeto.
 
