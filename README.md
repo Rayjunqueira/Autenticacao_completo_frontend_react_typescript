@@ -1,5 +1,6 @@
 # Projeto Autenticação Frontend completo React & Typescript
 
+![Animação2](https://user-images.githubusercontent.com/99502194/184424337-b1b457e5-36d6-4a77-9016-aaa1459d4d31.gif)
 
 # Sobre o projeto
 
@@ -8,58 +9,50 @@ Incluído no projeto página de cadastro, login, ativação de conta, recuperaç
 
 # Tecnologias usadas
 
-<div>
-    <a>React</a>
-    <a>Styled-Components</a>
-    <a>Axios</a>
-    <a>Context API</a>
-    <a>Dotenv</a>
-    <a>React Hooks</a>
-    <a>Grid (Layout responsivo)</a>
-    <a>LocalStorage</a>
-</div>
-## Rodando a aplicação na sua máquina
+ <p>◼ React</p>
+ ◼ Context API</p>
+ ◼ React Hooks</p>
+ ◼ React Form Hook</p>
+ ◼ Axios</p>
+ ◼ Dotenv</p>
+ ◼ Grid (Layout responsivo)</p>
+ ◼ Styled-components </p>
+ ◼ LocalStorage</p>
+ 
+# Rodando aplicação na sua máquina
 
 1 - Clone o repositório
 
     git clone 
 
-### `npm start`
+2 - Instal os pacotes NPM
 
+    npm install 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+3 - Crie um arquivo .env na raiz do seu projeto com uma API real ou fícticia  
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+4 - Rodar aplicação
+    
+    npm start
 
-### `npm test`
+# Rodando aplicação com uma API real
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1 - Adicione o link de uma API real na seu arquivo .env
 
-### `npm run build`
+2 - Delete o mock de teste 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Animação3](https://user-images.githubusercontent.com/99502194/184424774-c1f97f6d-1751-4de2-8359-1f33fddd7437.gif)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+3 - Certifique de colocar uma rota válida da sua API
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Como contribuir 
 
-### `npm run eject`
+1 - Crie um fork do projeto.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+2 - git remote add origin urlDoRepositórioDoProjeto.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3 - Faça commits para aprimorar o projeto.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+4 - Faça push dessa branch para seu projeto no GitHub.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+5 - Abra um Pull Request
