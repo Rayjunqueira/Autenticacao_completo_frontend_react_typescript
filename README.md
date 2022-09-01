@@ -23,7 +23,7 @@ Incluído no projeto página de cadastro, login, ativação de conta, recuperaç
 
 1 - Clone o repositório
 
-    git clone https://github.com/Routfin/agenda_de_produtos_e_clientes_react_typescript_frontend_completo.git
+    git clone https://github.com/Routfin/Autenticacao_completo_frontend_react_typescript.git
 
 2 - Instal os pacotes NPM
 
