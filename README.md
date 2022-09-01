@@ -23,7 +23,7 @@ Incluído no projeto página de cadastro, login, ativação de conta, recuperaç
 
 1 - Clone o repositório
 
-    git clone https://github.com/Routfin/Autenticacao_completo_frontend_react_typescript.git
+    git clone https://github.com/Routfin/agenda_de_produtos_e_clientes_react_typescript_frontend_completo.git
 
 2 - Instal os pacotes NPM
 
@@ -35,15 +35,7 @@ Incluído no projeto página de cadastro, login, ativação de conta, recuperaç
     
     npm start
 
-# Rodando aplicação com uma API real
 
-1 - Adicione o link de uma API real na seu arquivo .env
-
-2 - Delete o mock de teste 
-
-![Animação3](https://user-images.githubusercontent.com/99502194/184424774-c1f97f6d-1751-4de2-8359-1f33fddd7437.gif)
-
-3 - Certifique de colocar uma rota válida da sua API
 
 ## Contribua com o projeto
 
